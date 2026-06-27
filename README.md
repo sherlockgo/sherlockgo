@@ -8,7 +8,7 @@
  
 - <b>C++ (Projects)</b>
   - [Simple Dice Game](https://github.com/sherlockgo/dice-game/blob/main/dicegame.cpp)
-  - 
+  - [Investment Calculator](https://github.com/sherlockgo/InvestmentCalculator/blob/main/InvestmentCalculator.cpp)
   - 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
