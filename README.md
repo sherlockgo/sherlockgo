@@ -11,7 +11,7 @@
   - [Investment Calculator](https://github.com/sherlockgo/InvestmentCalculator/blob/main/InvestmentCalculator.cpp)
   - 
 - <b>Python</b>
-  - []
+  - [telephone convertor](https://github.com/sherlockgo/Telephone-Digit-Converter.py)
     
 - <b>SQL</b>
   -[Borrowing (Loans) Table]
